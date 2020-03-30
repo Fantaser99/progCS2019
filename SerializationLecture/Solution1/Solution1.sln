@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON", "JSON\JSON.csproj", "{6D92AD55-0CEF-4476-BA54-23DA611B4FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{E9F80217-8B7B-438C-8675-15D51214D1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D92AD55-0CEF-4476-BA54-23DA611B4FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D92AD55-0CEF-4476-BA54-23DA611B4FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D92AD55-0CEF-4476-BA54-23DA611B4FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D92AD55-0CEF-4476-BA54-23DA611B4FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F80217-8B7B-438C-8675-15D51214D1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F80217-8B7B-438C-8675-15D51214D1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F80217-8B7B-438C-8675-15D51214D1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F80217-8B7B-438C-8675-15D51214D1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
